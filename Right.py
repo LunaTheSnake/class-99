@@ -1,0 +1,5 @@
+f=open("E://python//Luna.txt","w")
+f.write("luna is a very fat snake")
+f.close()
+f=open("E://python//Luna,txt","r")
+print (f.read())
